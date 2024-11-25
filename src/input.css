@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#section10 {
+   background-image: url("../img/Image (35).png");
+   background-repeat: no-repeat;
+}
+#yak {
+      background-image: url("../img/Image (43).png");
+      background-repeat: no-repeat;
+}
